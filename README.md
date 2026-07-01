@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Yash%20Gupta&fontSize=55&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Innovator%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff&animation=twinkling&cache=3" width="100%" alt="Yash Gupta - Software Engineer & AI Innovator" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Aditi%20Singh&fontSize=55&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Innovator%20%7C%20Full-Stack%20Developer&descAlignY=55&descAlign=50&fontColor=ffffff&animation=twinkling&cache=3" width="100%" alt="Yash Gupta - Software Engineer & AI Innovator" />
 </div>
 
 <div align="center">
